@@ -1,5 +1,7 @@
 *{
     box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
 html{
     font-size: 62.5%;
@@ -11,14 +13,30 @@ body {
 
 .contenedor {
     width: 70%;
-    padding: 1rem;
+    padding: 2rem;
     text-align: center;
-    border: 2px solid rgb(44, 42, 42);
+    border-color: rgb(44, 42, 42);
+    border-left:2px 2px;
+    border-bottom: 2px;
+    border-top: 0px;
+    border-style: solid;
     font-size: 1.6rem;
-    margin:0 auto; 
+   margin: 0 auto;
+
 }
 .contenedor h1{
     color: brown;
     font-size: 2.4rem;    
     
+}
+.cabecera{
+    text-align: center;
+    margin: 0 auto;
+    width: 70%;
+    background-color: brown;
+    border: black solid 0.2rem;
+    color: blanchedalmond;
+    padding: 0.8rem;
+    font-size: 1.2rem;
+    box-shadow: -6px 8px 0px 0px dimgray;
 }
