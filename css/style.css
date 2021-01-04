@@ -25,7 +25,11 @@ body {
 
 }
 .contenedor h1{
+<<<<<<< HEAD
     color: indigo;
+=======
+    color: green;
+>>>>>>> cabecera
     font-size: 2.4rem;    
     
 }
