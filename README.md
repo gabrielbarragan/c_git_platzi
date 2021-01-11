@@ -12,6 +12,8 @@ En este curso he aprendido:
 > Este Readme es un ejemplo para la clase.
 
 Si estas en Colombia, visita mi e-commerce: [Nativas cosmética](https://soynativas.com "Nativas cosmética")
+
+Creado por Gabriel Rondón Barrigón
  
 
 
