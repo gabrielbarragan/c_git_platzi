@@ -14,6 +14,6 @@ En este curso he aprendido:
 Si estas en Colombia, visita mi e-commerce: [Nativas cosmética](https://soynativas.com "Nativas cosmética")
 
 Creado por Gabriel Rondón Barrigón
- 
+Realizado en vscode 
 
 
